@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="whatName">Username: </string>
+    <string name="name"></string>
+    <string name="instruct">TicTacToe Instructions</string>
+    <string name="start">Start</string>
+</resources>
